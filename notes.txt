@@ -1,0 +1,6 @@
+npm i react react-dom @types/react @types/react-dom --save
+
+npm i path --save-dev
+npm i @types/node autoprefixer css-loader extract-text-webpack-plugin postcss-custom-properties postcss-import postcss-loader postcss-nesting --save-dev
+npm i react-hot-loader source-map-loader style-loader stylelint ts-loader tslint tslint-react typescript  --save-dev
+npm i webpack webpack-dev-server webpack-visualizer-plugin --save-dev
